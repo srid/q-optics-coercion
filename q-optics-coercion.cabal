@@ -39,6 +39,7 @@ executable q-optics-coercion
     , text
     , time
     , with-utf8
+    , optics-core
 
   mixins:
     base hiding (Prelude),
